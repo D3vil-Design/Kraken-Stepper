@@ -21,5 +21,3 @@ Welcome to the official repository for the **Kraken Motor** – a high-torque, p
 
 https://github.com/D3vil-Design/Kraken-Stepper/assets/67915879/7968a220-0527-437e-b0e9-cfd327da05fb
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kU-81QP2r-E?si=gDA0nmHCxnQxPYuT" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
