@@ -1,7 +1,6 @@
-## The long awated Monstor .... The Kraken by Omranello 
+## The long awated Monstor .... The Kraken by Omranello [ LDO 3004 ] Stepper motor 
 
 Welcome to the official repository for the **Kraken Motor** – a high-torque, powerful, and audibly impressive motor designed for a wide range of applications. and not for the fain of heart.
-
 
 ## Features
 
