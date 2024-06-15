@@ -31,7 +31,7 @@ Welcome to the official repository for the **Kraken Motor** – a high-torque, p
 - **USA**: [PeeDee3d.com](https://peedee3d.com/collections/motion/products/kraken-by-omranello-1-8-ldo-42sth60-3004acs40)
 - **USA**: [Wattskraken.xyz](https://wattskraken.xyz/products/ldo-kraken-steppers?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web)
 
-## NOTE : Do kindly check our [Kraken channel](https://discord.com/channels/1154500511777693819/1246930108032225280) and get a Discount per each motor you purchase [ up to 4 motors ]
+## Check our channel for support and get a Discount per each motor you purchase [ up to 4 motors ] [Kraken channel](https://discord.com/channels/1154500511777693819/1246930108032225280)
 
 For Collaboration and distribution kindly email  Omranello@gmail.com / Omran@3difinity.com
 
