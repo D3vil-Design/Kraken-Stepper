@@ -5,7 +5,7 @@ Welcome to the official repository for the **Kraken Motor** – a high-torque, p
 <img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/kk%2012.png"><img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/kk9.png"> 
 <img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/krk%202.png"><img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/kk6.png">
 
-## What comes in it
+## Whats in the box
 
 - **HardCase**: Protecting the Heavy motor for shipping , and reducing the Carboard waste by providing a reusable box.
 - **The Kraken**: a 60mm long NEMA17 with 40mm long [D Cut] shaft , equiped with internal thermistor [PT1000] to mesure the actual motor tempreture.
