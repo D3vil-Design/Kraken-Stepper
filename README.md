@@ -1,4 +1,3 @@
-
 ## The Kraken by Omranello [ LDO 3004 ] NEMA17 Stepper motor
 
 Welcome to the official repository for the **Kraken Motor** – a high-torque, powerful, and audibly impressive motor designed for a wide range of applications but not for the fain of heart.
