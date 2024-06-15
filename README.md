@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the **Kraken Motor** – a high-torque, powerful, and audibly impressive motor designed for a wide range of applications but not for the fain of heart.
 
-<img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://raw.githubusercontent.com/D3vil-Design/Kraken-Stepper/blob/main/Images/kk%2012.png">
+<img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/kk%2012.png">
 
 
 ## Features
