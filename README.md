@@ -1,9 +1,10 @@
-## The Kraken by Omranello [ LDO 3004 ] NIMA17 Stepper motor<img style="width: 10%; height: 10%" width="10%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/Kraken%20Logo%20V-White%20BG%20.png">
+
+## The Kraken by Omranello [ LDO 3004 ] NIMA17 Stepper motor
 
 Welcome to the official repository for the **Kraken Motor** – a high-torque, powerful, and audibly impressive motor designed for a wide range of applications but not for the fain of heart.
 
 <img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/kk%2012.png"><img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/kk6.png"> 
-<img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/kk9.png">
+<img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/kk9.png"><img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/krk%202.png">
 
 
 ## Features
