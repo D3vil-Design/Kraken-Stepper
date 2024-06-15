@@ -22,4 +22,18 @@ Welcome to the official repository for the **Kraken Motor** – a high-torque, p
 
 For Collaboration and distribution kindly email  Omranello@gmail.com / Omran@3difinity.com
 
+Special Thanks to all those help in testing and supporting this project 
+The team @ D3vil design and the pioneers who purchased the motor and took this opportunity to help refine thise product for the market and the community...
+THANK YOU!!
+
+Austin Lee (Budz) 
+Derrick Darrell
+Shima
+Bryan smith (Zarboz)
+Daniel Raine from Ferrari Italy 
+Philip from Meltbro
+Steven from CRYD Team Germany 
+
+
+
 
