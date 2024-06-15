@@ -1,12 +1,15 @@
-## The long awated Monstor .... The Kraken by Omranello [ LDO 3004 ] Stepper motor 
+## The Kraken by Omranello [ LDO 3004 ] NIMA17 Stepper motor 
 
-Welcome to the official repository for the **Kraken Motor** – a high-torque, powerful, and audibly impressive motor designed for a wide range of applications. and not for the fain of heart.
+Welcome to the official repository for the **Kraken Motor** – a high-torque, powerful, and audibly impressive motor designed for a wide range of applications but not for the fain of heart.
 
 ## Features
 
 - **Voltage Range**: Operates efficiently from 24V to 60V.
-- **High Torque**: Exceptional power to handle heavy loads. check the torque curve
+- **Voltage AMP**: Can go up to 3 AMP
+- **High Torque**: Exceptional Power to handle heavy loads. Very high [low-end] torque >> download the torque curve and the Gear selector to check what suits your setup <<
+- **Low Vibration**: Showed way lower vibration incompareson to other motors
 - **Audible Feedback**: Loud operation indicating its monstrous performance.
+  
 
 ## Where to buy : Offical stores
 
@@ -15,8 +18,8 @@ Welcome to the official repository for the **Kraken Motor** – a high-torque, p
 - **USA**: [PeeDee3d.com](https://peedee3d.com/collections/motion/products/kraken-by-omranello-1-8-ldo-42sth60-3004acs40)
 - **USA**: [Wattskraken.xyz](https://wattskraken.xyz/products/ldo-kraken-steppers?utm_source=copyToPasteBoard&utm_medium=product-links&utm_content=web)
 
+## NOTE : Do kindly check our [Kraken channel](https://discord.com/channels/1154500511777693819/1246930108032225280) 
 
+For Collaboration and distribution kindly email  Omranello@gmail.com / Omran@3difinity.com
 
-
-https://github.com/D3vil-Design/Kraken-Stepper/assets/67915879/7968a220-0527-437e-b0e9-cfd327da05fb
 
