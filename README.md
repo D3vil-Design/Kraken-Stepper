@@ -38,12 +38,18 @@ Special Thanks to all those help in testing and supporting this project
 The team @ D3vil design and the pioneers who purchased the motor and took this opportunity to help refine thise product for the market and the community...
 THANK YOU!!
 
-Austin Lee (Budz) 
+Austin Lee (Budz)
+
 Derrick Darrell
+
 Shima
+
 Bryan smith (Zarboz)
+
 Daniel Raine from Ferrari Italy 
+
 Philip from Meltbro
+
 Steven from CRYD Team Germany 
 
 
