@@ -16,8 +16,7 @@ Welcome to the official repository for the **Kraken Motor** – a high-torque, p
 
 This is the Latest Version **Kraken V2** – Very impressive performance to match 20T and 25T Gearing, Runs very cool , and loves to be pushed hard with Higher voltage and Amps.
 
-<img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/user-attachments/assets/8899ec9a-b1a1-4567-a91b-8dd83126f725"> 
-<img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/user-attachments/assets/e68df6c7-3a96-4e12-8919-861d89274091">
+<img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/user-attachments/assets/8899ec9a-b1a1-4567-a91b-8dd83126f725"><img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/user-attachments/assets/e68df6c7-3a96-4e12-8919-861d89274091">
 
 ## Features
 
