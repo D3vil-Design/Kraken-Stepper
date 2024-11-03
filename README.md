@@ -19,7 +19,7 @@ This is the Latest Version **Kraken V2** – Very impressive performance to matc
 
 
 
-<img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/Kraken%V2%box1.png"><img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/Kraken%V2%back.png"> 
+<img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/user-attachments/assets/a7f2accb-362c-469b-be02-4f2efcbadbb3"><img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/Kraken%V2%back.png"> 
 <img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/Kraken%V2%base.png"><img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/Kraken%V2%side.png">
 
 ## Features
