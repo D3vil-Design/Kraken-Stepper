@@ -1,4 +1,4 @@
-## Kraken Stepper Gearing of choice.
+## Kraken Stepper Gearing of choice. ( Outdated ) for Kraken V1 
 
 Since the kraken was made with high torque at lower PPS , it is advaisable to select the right gearing to match your setup
 
@@ -7,4 +7,3 @@ https://discord.com/channels/1154500511777693819/1246930108032225280 ( Kraken ch
 
 Direct link to the discord : https://github.com/D3vil-Design
 
-Special thank to Tyler (bootycalljones.) for this document.
