@@ -16,8 +16,8 @@ Welcome to the official repository for the **Kraken Motor** – a high-torque, p
 
 This is the Latest Version **Kraken V2** – Very impressive performance to match 20T and 25T Gearing, Runs very cool , and loves to be pushed hard with Higher voltage and Amps.
 
-<img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/user-attachments/assets/a7f2accb-362c-469b-be02-4f2efcbadbb3"><img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/user-attachments/assets/8899ec9a-b1a1-4567-a91b-8dd83126f725"> 
-<img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/user-attachments/assets/e68df6c7-3a96-4e12-8919-861d89274091"><img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/user-attachments/assets/2eb82d75-1c92-4b07-a60b-f90300c84651">
+<img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/user-attachments/assets/8899ec9a-b1a1-4567-a91b-8dd83126f725"> 
+<img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/user-attachments/assets/e68df6c7-3a96-4e12-8919-861d89274091">
 
 ## Features
 
@@ -27,7 +27,9 @@ This is the Latest Version **Kraken V2** – Very impressive performance to matc
 - **Low Vibration**: Showed way lower vibration incompareson to other motors
 - **Heat**: It runs way cooler than V1 kraken , and could run without cooling.
 
-  <img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/Kraken%v2%curve.png"><img style="width: 50%; height: 50%" width="50%" class="lazy" src="https://github.com/D3vil-Design/Kraken-Stepper/blob/main/Images/Kraken%V2%Datasheet.png"> 
+![Kraken V2 Datasheet](https://github.com/user-attachments/assets/e75589d1-5efa-4029-8e52-1f2b81a4c72d)
+![Kraken v2 curve](https://github.com/user-attachments/assets/40911a9d-adc7-468d-97b1-f9c20ff57fc7)
+
 
 ## Where to buy : Offical stores
 
