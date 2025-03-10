@@ -41,8 +41,6 @@ This is the Latest Version **Kraken V2** – Very impressive performance to matc
 - **China**: [Mellow](https://www.aliexpress.com/item/1005008473641771.html?pdp_npi=4%40dis%21AED%21AED%20416.15%21AED%20205.81%21%21%21110.00%2154.40%21%40213ba74817415879470311500e9fa2%2112000045303777902%21sh%21AE%210%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007473650367.1005008473641771)
 - **UK**: [OneTwo3D.co.uk](https://www.onetwo3d.co.uk/product/kraken-ldo-42sth60-3004mahrs37/)
 
-https://west3d.com/products/kraken-motors-from-devil-design-ldo-42sth60-3004ah-s37-and-s55-extreme-stepper-motor
-
 ## Check our channel for support [Kraken channel](https://discord.com/channels/1154500511777693819/1246930108032225280)
 
 For Collaboration and distribution kindly email  Omranello@gmail.com / Omran@3difinity.com
