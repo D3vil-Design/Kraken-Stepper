@@ -36,10 +36,12 @@ This is the Latest Version **Kraken V2** – Very impressive performance to matc
 - **Worldwide** : [D3vil Design store - Aliexpress](https://www.aliexpress.com/item/1005007149088740.html)
 - **Europe** : [Meltbro.com](https://meltbro.de/Superpower-Super-power-Kraken-Nema-17-Schrittmotor-0-9---D3vil-Design-X-LDO-60V-faehig-LDO-42sth60-3004MAC-S40--fuer-Creality-K1-K1C-K1-Max-Voron-VzBot-1001001420.html)
 - **USA**: [PeeDee3d.com](https://peedee3d.com/products/kraken-by-omranello-1-8-ldo-42sth60-3004ah)
+- **USA**: [West3D.com](https://west3d.com/products/kraken-motors-from-devil-design-ldo-42sth60-3004ah-s37-and-s55-extreme-stepper-motor)
 - **Australia**: [Raven3dtech.com.au](https://raven3dtech.com.au/product/kraken-motors-high-torque-stepper-motors-by-devil-design)
 - **China**: [Mellow](https://www.aliexpress.com/item/1005008473641771.html?pdp_npi=4%40dis%21AED%21AED%20416.15%21AED%20205.81%21%21%21110.00%2154.40%21%40213ba74817415879470311500e9fa2%2112000045303777902%21sh%21AE%210%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007473650367.1005008473641771)
 - **UK**: [OneTwo3D.co.uk](https://www.onetwo3d.co.uk/product/kraken-ldo-42sth60-3004mahrs37/)
 
+https://west3d.com/products/kraken-motors-from-devil-design-ldo-42sth60-3004ah-s37-and-s55-extreme-stepper-motor
 
 ## Check our channel for support [Kraken channel](https://discord.com/channels/1154500511777693819/1246930108032225280)
 
